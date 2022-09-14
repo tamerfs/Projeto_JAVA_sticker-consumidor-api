@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/imersao-imb-api.iml" filepath="$PROJECT_DIR$/imersao-imb-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imersao-java-api.iml" filepath="$PROJECT_DIR$/imersao-java-api.iml" />
     </modules>
   </component>
 </project>

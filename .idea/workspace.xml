@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1add099-87c9-4ded-8487-7d667772cdbb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-stickers/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-stickers/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-stickers/src/GeradoraDeFigurinhas.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-stickers/src/GeradoraDeFigurinhas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imersao-imb-api/out/The Dark Knight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imersao-imb-api/out/The Godfather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imersao-imb-api/out/The Shawshank Redemption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/imersao-java-api/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/imersao-java-api/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/imersao-java-api/GeradoraDeFigurinhas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/imersao-java-api/GeradoraDeFigurinhas.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EjM2NbE4Z500pnAAe57d8tM8r5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/WorkSpace/Projetos_JAVA_INTELLI/ALURA/lang-api"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="IntelliJ IDEA Community Edition IC-222.3739.54" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="imersao-java-api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in imersao-java-api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="imersao-java-api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.All in imersao-java-api" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.All in imersao-java-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1add099-87c9-4ded-8487-7d667772cdbb" name="Changes" comment="" />
+      <created>1663104331252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663104331252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

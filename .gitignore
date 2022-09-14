@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/api-stickers/.vscode
+/api-stickers/.idea
+/api-stickers/bin
+/api-stickers/saida/*.png
+
