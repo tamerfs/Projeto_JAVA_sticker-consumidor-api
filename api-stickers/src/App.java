@@ -19,7 +19,7 @@ public class App {
 
 // extrator do meu APP no HEROKU
         //seta a URL fonte do JSON
-           String url = "http://localhost:8080/lang";
+           String url = "https://language-api-taer.herokuapp.com/lang";
         // escolhe qual metodo do extrator usar
            ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
